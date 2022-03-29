@@ -102,7 +102,7 @@ knack==0.4.5
 msrest==0.6.2
 msrestazure==0.5.1
 oauthlib==2.1.0
-paramiko==2.4.2
+paramiko==2.10.1
 portalocker==1.2.1
 pyasn1==0.4.4
 pycparser==2.19
